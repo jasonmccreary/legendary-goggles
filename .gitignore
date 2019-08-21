@@ -1,0 +1,4 @@
+npm-debug.log
+*.xcbuild
+sub-dir/*.log
+
